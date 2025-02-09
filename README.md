@@ -1,4 +1,4 @@
-## Hi there, My name is Cristina Planas,I'm a Cybersecurity Analyst.
+## Hi there, My name is Cristina Planas,I'm a Cybersecurity Professional.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
