@@ -6,6 +6,7 @@
 
 <h2>🛠 Cybersecurity Projects:</h2>
 
+ - <b>Security Audit (Controls and Compliance Assessment)</b>
  - <b>Build a Basic SIEM with Splunk (Log Analysis & Threat Hunting)</b>
  - <b>Automate Threat Detection with Python</b>
 - <b>Set Up an Intrusion Detection System (IDS) with Snort or Suricata</b>
