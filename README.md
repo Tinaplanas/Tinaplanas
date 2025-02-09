@@ -1,4 +1,16 @@
-## Hi there, My name is Cristina Planas,I'm a Cybersecurity Professional.
+## 👋 Hi, I'm Cristina!  
+🔹 **Cybersecurity Analyst | Security Engineer Enthusiast**  
+🔹 Passionate about Threat Detection, Network Security, and Automation  
+🔹 Experienced with SIEM, IDS/IPS, Python, and Log Analysis  
+
+
+<h2>🛠 Cybersecurity Projects:</h2>
+
+ - <b>Build a Basic SIEM with Splunk (Log Analysis & Threat Hunting)</b>
+ - <b>Automate Threat Detection with Python</b>
+- <b>Set Up an Intrusion Detection System (IDS) with Snort or Suricata</b>
+
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
