@@ -8,11 +8,7 @@
 
  - <b>Security Audit (Controls and Compliance Assessment)</b>
 - [Compliance, Risk Assessment](https://github.com/Tinaplanas/Security-Audit)
- - <b>Build a Basic SIEM with Splunk (Log Analysis & Threat Hunting)</b>
- - <b>Automate Threat Detection with Python</b>
-- <b>Set Up an Intrusion Detection System (IDS) with Snort or Suricata</b>
-
-
+ 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
