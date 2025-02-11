@@ -7,8 +7,7 @@
 <h2>🛠 Cybersecurity Projects:</h2>
 
  - <b>Home Lab (Security Operations Center w/ open sources)</b>
-
- - <b>Security Audit (Controls and Compliance Assessment)</b>
+- <b>Security Audit (Controls and Compliance Assessment)</b>
 - [Compliance, Risk Assessment](https://github.com/Tinaplanas/Security-Audit)
  
 
