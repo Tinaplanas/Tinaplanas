@@ -9,6 +9,9 @@
  - <b>Home Lab (Security Operations Center w/ open sources) Blue Team</b>
 - <b>Security Audit (Controls and Compliance Assessment)</b>
 - [Compliance, Risk Assessment](https://github.com/Tinaplanas/Security-Audit)
+
+ <h2>⚠️ Vulnerability Management:</h2>
+- <b>Vulnerability Management Program Implementation</b>
  
 
 <h2>👨‍💻 Information Technology Projects:</h2>
