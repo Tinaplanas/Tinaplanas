@@ -19,7 +19,7 @@ I created this space to showcase hands-on work I’ve done while studying and wo
     <br>
     I built a side-by-side matrix to visualize how three core cybersecurity frameworks align. This helped me understand how different organizations manage controls based on industry and regulation.
     <br>
-    👉 <a href="https://github.com/tinaplanas/compliance-matrix">View Project</a>
+    👉 <a href="https://github.com/Tinaplanas/Security-Tools-Policies">View Project</a>
   </li><br>
 
   <li>
