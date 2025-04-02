@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/CySA%2B-In--Progress-yellow" />
 </p>
 <b>Welcome to my cybersecurity portfolio!</b>   
-I created this space to showcase hands-on work I’ve done while studying and working in cybersecurity from compliance mapping to risk assessments to security policy writing. Everything here is part of my journey from sales pro to security analyst, with a focus on clarity, strategy, and getting better 1% every day.
+I created this space to showcase hands-on work I’ve done while studying and working in cybersecurity from compliance mapping to risk assessments to security policy writing. Everything here is part of my journey from AE to security analyst, with a focus on clarity, strategy, and getting better 1% every day.
 
 <hr>
 
