@@ -90,4 +90,4 @@ I created this space to showcase hands-on work I’ve done while studying and wo
   <li>Created dashboards in Microsoft Sentinel and used KQL to investigate security events and logon anomalies</li>
   <li>Skilled at identifying risks, aligning controls, and helping teams stay audit-ready</li>
 </ul>
-<b><p>I combine a deep respect for business operations with a proactive security mindset while using my experience in sales, leadership, and cybersecurity to drive smart, secure, and scalable solutions across teams.</p></b>
+<b><p>I use my background in sales and leadership to drive alignment, manage risk, and deliver secure, scalable solutions. I bridge the gap between strategy and execution to help teams stay focused, compliant, and protected.</p></b>
