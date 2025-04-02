@@ -27,7 +27,7 @@ I created this space to showcase hands-on work I’ve done while studying and wo
     <br>
     A breakdown of risks, vulnerabilities, and mitigation strategies for a retail Point-of-Sale system. Built like I’d present it to a real team — practical, prioritized, and mapped to impact.
     <br>
-    👉 <a href="https://github.com/tinaplanas/pos-risk-assessment">View Project</a>
+    👉 <a href="https://github.com/Tinaplanas/Risk-Assessment">View Project</a>
   </li><br>
 
   <li>
