@@ -36,30 +36,46 @@ I created this space to showcase hands-on work I’ve done while studying and wo
     My take on a clear, concise, and human-friendly Acceptable Use Policy. Written from scratch with new employees in mind — and a tone that actually encourages compliance.
     <br>
     👉 <a href="https://github.com/tinaplanas/acceptable-use-policy">View Project</a>
+
+
+
+
+<h2>🛠 MORE:</h2>
+
+  </li><br>
+  <li>
+    <b>📋 Controls and Compliance Assessment</b>  
+    <br>
+    A hands-on internal audit simulation using the NIST CSF. I evaluated asset management, risk posture, and compliance with PCI DSS, GDPR, and SOC standards — then documented key findings and recommendations.  
+    <br>
+    👉 <a href="https://github.com/tinaplanas/Security-Audit">View Project</a>
+  </li><br>
+
+  <li>
+    <b>🧠 Home Lab: Security Operations Center (SOC)</b>  
+    <br>
+    A self-built SOC environment to practice log analysis, detection rule writing, and endpoint monitoring. This project helped me apply SIEM workflows, threat detection, and response techniques in a controlled lab setting.  
+    <br>
+    👉 <a href="https://github.com/tinaplanas/HomeLab">View Project</a>
+  </li><br>
+
+  <li>
+    <b>☁️ Microsoft Azure Lab Projects</b>  
+    <br>
+    Built and configured a hybrid Active Directory environment inside Azure. Explored NSG rules, firewall behavior, and how cloud infrastructure impacts identity, access, and security monitoring.  
+    <br>
+    👉 <a href="https://github.com/Tinaplanas/AD-Azure">View Project</a>
+  </li><br>
+
+  <li>
+    <b>💼 osTicket Help Desk System</b>  
+    <br>
+    Deployed and configured osTicket from scratch to simulate an IT ticketing workflow. Documented the installation, post-config setup, and ticket lifecycle to better understand IT service management and support response tracking.  
+    <br>
+    👉 <a href="https://github.com/Tinaplanas/Prereq-OSTicket">View Project</a>
   </li>
 </ul>
 
-<hr>
-
-
-
-<h2>🛠 Cybersecurity Projects:</h2>
-
- - [Home Lab (Security Operations Center)](https://github.com/Tinaplanas/HomeLab.git)
-- [Security Audit (Controls and Compliance Assessment](https://github.com/Tinaplanas/Security-Audit)
-
- ⚠️ <b>Vulnerability Management Program Implementation</b>
- 
-
-<h2>👨‍💻 Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Tinaplanas/Prereq-OSTicket)
-  - [osTicket: Post-Installation Configuration]
-  - [osTicket: Ticket Lifecycle Examples]
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Tinaplanas/AD-Azure)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tinaplanas/NSGs-Securitygroups/blob/main/README.md)
 
 <b>📫 Let’s Connect:</b>  
 <a href="https://linkedin.com/in/cristinaplanas">LinkedIn.com/in/cristinaplanas</a>
