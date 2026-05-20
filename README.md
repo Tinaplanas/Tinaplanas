@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Security%2B-blue" />
   <img src="https://img.shields.io/badge/Network%2B-green" />
-  <img src="https://img.shields.io/badge/Google-Managing%20Security%20Risks-orange" />
-  <img src="https://img.shields.io/badge/CySA%2B-In--Progress-red" />
+  <img src="https://img.shields.io/badge/ISO%2027001-Lead%20Auditor-brightgreen" />
+  <img src="https://img.shields.io/badge/CSM-Certified%20Scrum%20Master-purple" />
 </p>
 <b>Welcome to my cybersecurity portfolio!</b>   
 I created this space to showcase hands-on work I’ve done while studying and working in cybersecurity from compliance mapping to risk assessments to security policy writing. Everything here is part of my journey from AE to security analyst, with a focus on clarity, strategy, and getting better 1% every day.
